@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raahulydv7
-- 👀 I’m interested in software development
+- 👀 I’m interested in python , Django
 - 🌱 I’m currently learning Django, Django Restframework
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software development, Frontend, Backend
 - 📫 How to reach me rahul7879yadav@gmail.com
 
 <!---
