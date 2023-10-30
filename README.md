@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @raahulydv7
+- 👋 Hi, I'm Rahul Yadav, a Full stack Python Developer.
 - 👀 I’m interested in python , Django
+<hr>
 - 🌱 I’m currently learning Django, Django Restframework
 - 💞️ I’m looking to collaborate on software development, Frontend, Backend
 - 📫 How to reach me rahul7879yadav@gmail.com
